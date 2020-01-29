@@ -1,3 +1,5 @@
+<!-- PHP & AJAX -->
+
 <!DOCTYPE html>
 <html>
 <head>
