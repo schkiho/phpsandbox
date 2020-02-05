@@ -12,6 +12,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="<?php echo ROOT_URL; ?>">Home</a></li>
+            <li><a href="<?php echo ROOT_URL; ?>addpost.php">Add Post</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
